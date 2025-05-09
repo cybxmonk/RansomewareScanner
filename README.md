@@ -1,6 +1,9 @@
 # Ransomware File Scanner
 
 A lightweight tool for detecting potential ransomware on your system. This scanner looks for common indicators of ransomware, including suspicious file extensions, malicious content patterns, and encrypted file characteristics.
+![image](https://github.com/user-attachments/assets/f2ee6ebf-6b7b-406a-82c2-618b1a361a02)
+
+![image](https://github.com/user-attachments/assets/6a2b5d29-6565-486f-8163-97b1db76885a)
 
 ## Features
 
